@@ -1,8 +1,33 @@
 # Информатика для 2401-2408M
 
 ## Занятие 01. Основы программирования 
+Справочные материалы:
 
-Задание: https://github.com/kpfuse/2401-2408M-2425/blob/main/Lab01_2401_08M.pdf <br>
+- https://isocpp.org/  
+- https://en.cppreference.com/w/cpp
+- https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170
+- https://devdocs.io/cpp/
+- https://www.learncpp.com
+- https://metanit.com
+- http://cppstudio.com
+- https://cplusplus.com/doc/tutorial/
+
+
+### 1. Изучить в https://education.yandex.ru/handbook/cpp 
+разделы:
+
+2.1. https://education.yandex.ru/handbook/cpp/article/first-steps 
+
+2.2. https://education.yandex.ru/handbook/cpp/article/data-types
+
+2.3. https://education.yandex.ru/handbook/cpp/article/branches-and-loops
+
+Решить задачи этих разделов.
+
+
+
+### 2. Задание для самостоятельной работы: 
+https://github.com/kpfuse/2401-2408M-2425/blob/main/Lab01_2401_08M.pdf <br>
         копия: https://drive.google.com/file/d/1Nqf7hiJa_40Upu42OjqzzY7cWe-9FFy9/view?usp=sharing
 
 Как сдать работу: 
