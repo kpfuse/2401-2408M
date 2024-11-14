@@ -2,7 +2,7 @@
 ## Занятие 03. Многомерные массивы
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1BmASp793fGQfBBd0O_RQzcFTYIA9wfiH/view?usp=sharing <br>
-        копия: 
+        копия: https://github.com/kpfuse/2401-2408M/blob/main/Lab03_2401_08M.pdf 
 
 Как сдать работу: 
 
