@@ -1,4 +1,11 @@
 # Информатика для 2401-2408M
+## Занятие 04. Функции
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/1F3Cx2Kq4_T3GP1f9Lt7kzChCkTHsuJgG/view?usp=sharing <br>
+        
+Как сдать работу: https://classroom.github.com/a/N-eOE5A-
+
+
 ## Занятие 03. Многомерные массивы
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1BmASp793fGQfBBd0O_RQzcFTYIA9wfiH/view?usp=sharing <br>
