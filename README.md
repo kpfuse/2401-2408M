@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1n1TbxI4smlw7uvJzCkNQHwGdr0GK721m/view?usp=drive_link
 
         
-Как сдать работу: https://classroom.github.com/a/xU_75Jwyhttps://classroom.github.com/a/xU_75Jwy
+Как сдать работу: https://classroom.github.com/a/xU_75Jwy
 
 ## Занятие 04. Функции
 ### 1. Задание для самостоятельной работы: 
