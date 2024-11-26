@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1hBHR2UerW4mBfSRuuMzx9L-xsR_Qdiku/view?usp=sharing
 
         
-Как сдать работу: 
+Как сдать работу: https://classroom.github.com/a/bG-jtmxu
 
 ## Занятие 05. Функции + массивы
 ### 1. Задание для самостоятельной работы: 
