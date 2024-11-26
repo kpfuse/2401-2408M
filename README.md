@@ -1,4 +1,11 @@
 # Информатика для 2401-2408M
+## Занятие 06. Строки
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/1hBHR2UerW4mBfSRuuMzx9L-xsR_Qdiku/view?usp=sharing
+
+        
+Как сдать работу: 
+
 ## Занятие 05. Функции + массивы
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1n1TbxI4smlw7uvJzCkNQHwGdr0GK721m/view?usp=drive_link
