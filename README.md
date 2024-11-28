@@ -1,4 +1,11 @@
 # Информатика для 2401-2408M
+## Занятие 07. Структуры
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/1h4F-C3i2k5kx0yBjKxfVaxr8c2g8Dxrl/view?usp=sharing
+
+        
+Как сдать работу: https://classroom.github.com/a/yTZi5p-2
+
 ## Занятие 06. Строки
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1hBHR2UerW4mBfSRuuMzx9L-xsR_Qdiku/view?usp=sharing
