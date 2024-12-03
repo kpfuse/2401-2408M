@@ -1,4 +1,11 @@
 # Информатика для 2401-2408M
+## Занятие 08. Файлы
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/18A3k0XUfUnSMJdQPJIK6qj4xrl4W5B_N/view?usp=sharing
+
+        
+Как сдать работу: https://classroom.github.com/a/uUq1sSoz
+
 ## Занятие 07. Структуры
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1h4F-C3i2k5kx0yBjKxfVaxr8c2g8Dxrl/view?usp=sharing
