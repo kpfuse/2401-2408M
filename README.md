@@ -1,4 +1,10 @@
 # Информатика для 2401-2408M
+## Занятие 09. Классы и объекты
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/1EZrrWdc2wuNx2tLC8U8-dAimhPvyLsNT/view?usp=sharing
+        
+Как сдать работу: https://classroom.github.com/a/xO1YW-nO
+
 ## Занятие 08. Файлы
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/18A3k0XUfUnSMJdQPJIK6qj4xrl4W5B_N/view?usp=sharing
