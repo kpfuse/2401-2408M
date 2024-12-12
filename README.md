@@ -1,9 +1,20 @@
 # Информатика для 2401-2408M
+## Занятие 10. Классы и объекты + операторы
+### 1. Задание для самостоятельной работы:
+https://drive.google.com/file/d/1X-iDeailygRg1PhIMEN1h2uQDxIDGQ3E/view?usp=sharing 
+### 2. Домашняя работа:
+https://drive.google.com/file/d/1vCjA4G2VvIhxd0aa8xU9ra4idsVA686h/view?usp=sharing
+
+        
+Как сдать работу: 
+https://classroom.github.com/a/T5pORr55
+
 ## Занятие 09. Классы и объекты
 ### 1. Задание для самостоятельной работы: 
 https://drive.google.com/file/d/1EZrrWdc2wuNx2tLC8U8-dAimhPvyLsNT/view?usp=sharing
         
 Как сдать работу: https://classroom.github.com/a/xO1YW-nO
+
 
 ## Занятие 08. Файлы
 ### 1. Задание для самостоятельной работы: 
