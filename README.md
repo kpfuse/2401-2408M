@@ -1,4 +1,10 @@
 # Информатика для 2401-2408M
+## Занятие 11. Классы и объекты, наследование и полиморфизм
+### 1. Задание для самостоятельной работы: 
+https://drive.google.com/file/d/1OFm1YubUj4lsWmw6gHt_X69QO0nPoNDB/view?usp=sharing
+        
+Как сдать работу: https://classroom.github.com/a/AUCMut5_ 
+
 ## Занятие 10. Классы и объекты + операторы
 ### 1. Задание для самостоятельной работы:
 https://drive.google.com/file/d/1X-iDeailygRg1PhIMEN1h2uQDxIDGQ3E/view?usp=sharing 
